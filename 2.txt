@@ -212,4 +212,4 @@ Linux terminal (GitBash) commands
  40. Просто вывести в терминал строку “Good job!!”
 	$ echo 'Good job!!'
 	Good job!!
-
+_
